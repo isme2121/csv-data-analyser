@@ -9,7 +9,6 @@ from PIL import Image
 import time
 import threading
 '''
-https://coderslegacy.com/how-to-make-ttk-treeview-editable-python/
 this program was integrated in an embedded format, most methods are hardly usable outside of it's proper environment
 progress: 60%
 to do list:
