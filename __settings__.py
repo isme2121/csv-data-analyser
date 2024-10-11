@@ -1,0 +1,31 @@
+BLACK = '#000000' 
+WHITE = '#ffffff'
+GREY = '#8a8a8a'
+RED = '#ff0000' 
+YELLOW = '#f3ff00'
+ORANGE = '#fc5c00'
+BROWN = '#8d4125'
+GREEN = '#27ff00'
+CYAN = '#01ffd9'
+BLUE = '#003eff'
+D_BLUE = '#09008e'
+PURPLE = '#aa00ff'
+PINK = '#ff00e8'
+MAGENTA = '#ff007c'
+L_YELLOW = '#FFFFDF'
+D_YELLOW = '#FFFFC0'
+A_YELLOW = '#fffdde'
+W_YELLOW = '#FCFDEE' #for theme
+L_GREEN = '#DEFFDD'
+D_GREEN = '#BEFFBE'
+DD_GREEN = '#073b00'
+LIGHT = '#F1FAF3'
+BG = '#414141'
+#(text, fg, border)
+colors = [(WHITE, BLACK, GREY),
+          (BLACK, WHITE, GREY)]
+theme_color = ['green', 'blue', 'dark-blue']
+appearance_color = ['dark', 'light']
+curr_theme_color = 0
+curr_appearance_mode = 0
+font=('Courier', 12, 'bold')
