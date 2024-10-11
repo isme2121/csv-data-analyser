@@ -4,7 +4,7 @@ from tkinter import ttk, PhotoImage
 from __settings__ import *
 from paths import *
 from datetime import datetime
-from knn_class import *
+from ML import *
 from PIL import Image
 import time
 import threading
